@@ -25,22 +25,22 @@ const About = () => {
     {
       level: "Class XII",
       degree: "Senior Secondary Education",
-      institution: "ABC College, Bihar",
+      institution: "U.R. College, Bihar",
       board: "Bihar School Examination Board (BSEB)",
-      duration: "2018 - 2020",
-      score: "Percentage: 82%",
+      duration: "2021 - 2022",
+      score: "Percentage: 64.8%",
       icon: "M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25M9 16.5v.75m3-3v3M15 12v5.25m-4.5-15H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z",
       highlights: ["Science Stream (PCM)", "Mathematics", "Physics", "Chemistry"]
     },
     {
       level: "Class X",
       degree: "Secondary Education",
-      institution: "XYZ School, Bihar",
+      institution: "CD Fort Public School, Bihar",
       board: "Central Board of Secondary Education (CBSE)",
-      duration: "2016 - 2018",
-      score: "Percentage: 88%",
+      duration: "2019 - 2020",
+      score: "Percentage: 88.4%",
       icon: "M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 10.443m-7.007 6.287H4.5c-.207 0-.416.008-.623.016",
-      highlights: ["Science & Mathematics", "Computer Science", "English", "Social Studies"]
+      highlights: ["Science & Mathematics", "Hindi", "English", "Social Studies"]
     }
   ];
 
@@ -48,27 +48,27 @@ const About = () => {
     {
       role: "Trainee Developer (IoT & Backend)",
       company: "College Placement Company",
-      duration: "7th Semester - Present",
+      duration: "February 2026 - Present",
       type: "Selected & Offered Trainee Role",
       icon: "M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
-      achievements: [
-        "Selected in campus placement drive during 7th semester",
-        "Working on live IoT projects combining backend and IoT technologies",
-        "Received stipend during internship period",
-        "Offered trainee role based on performance"
-      ]
-    },
-    {
-      role: "Backend Developer Intern",
-      company: "100 Days Internship Program",
-      duration: "During College",
-      type: "Live Project Experience",
-      icon: "M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4",
       achievements: [
         "Worked on live IoT-based project integrating hardware with backend",
         "Developed RESTful APIs for IoT device communication",
         "Implemented data processing pipelines for sensor data",
         "Collaborated with IoT team for seamless integration"
+      ]
+    },
+    {
+      role: "Backend Developer Intern",
+      company: "100 Days Internship Program",
+      duration: "August 2025 - February 2026",
+      type: "Live Project Experience",
+      icon: "M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4",
+      achievements: [
+        "Selected in campus placement drive during 7th semester",
+        "Working on live IoT projects combining backend and IoT technologies",
+        "Received stipend during internship period",
+        "Offered trainee role based on performance"
       ]
     }
   ];
