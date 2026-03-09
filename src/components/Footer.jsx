@@ -82,7 +82,7 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="relative bg-[#0a0a0f] border-t border-purple-900/30 mt-20 overflow-hidden">
+    <footer className="relative bg-[#0a0a0f] border-t border-purple-900/30  overflow-hidden">
       {/* Background decoration */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute bottom-0 left-0 w-64 h-64 bg-purple-600/5 rounded-full blur-3xl" />
